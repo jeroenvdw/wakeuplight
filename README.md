@@ -27,7 +27,10 @@
  ![alt text](https://github.com/jeroenvdw/wakeuplight/raw/master/images/schematic.PNG)
  
  ## The code
- For a better understanding of the lifecycle of the alarm, have a look at "lifecycle.pdf". To undesttand the menu structure, check out "screenflow.pdf" (source files are in the \*.dia files)
+ For a better understanding of the lifecycle of the alarm, have a look at "lifecycle.pdf". 
+ To undesttand the menu structure, check out "screenflow.pdf" (source files are in the \*.dia files)
+ 
+ All literals in the menu are now in Dutch. Rename the "Literals_EN.h" file to "Literals.h" to build the proejct using English literals.
  
  ## Images
  ![alt text](https://github.com/jeroenvdw/wakeuplight/raw/master/images/wakeuplight1.jpg)
