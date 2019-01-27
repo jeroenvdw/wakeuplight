@@ -24,7 +24,7 @@
  
  ## The build
  The schematic to solder everything together can be found in "schematic.pdf" (schematic.fzz is the original Fritzing file)
- ![alt text](https://github.com/jeroenvdw/wakeuplight/raw/master/images/schematic.PNG)
+ ![alt text](https://github.com/jeroenvdw/wakeuplight/raw/master/images/schematic.png)
  
  ## The code
  For a better understanding of the lifecycle of the alarm, have a look at "lifecycle.pdf". 
@@ -33,6 +33,7 @@
  All literals in the menu are now in Dutch. Rename the "Literals_EN.h" file to "Literals.h" to build the proejct using English literals.
  
  ## Images
+ ![alt text](https://github.com/jeroenvdw/wakeuplight/raw/master/images/wakeuplight0.jpg)
  ![alt text](https://github.com/jeroenvdw/wakeuplight/raw/master/images/wakeuplight1.jpg)
  ![alt text](https://github.com/jeroenvdw/wakeuplight/raw/master/images/wakeuplight2.jpg)
  ![alt text](https://github.com/jeroenvdw/wakeuplight/raw/master/images/wakeuplight3.jpg)
