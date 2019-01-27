@@ -42,8 +42,7 @@ namespace AlarmLiterals {
   static const char AL_VOL[]   = "Alarm Vol.";
   static const char SN_VOL[]   = "Snooze Vol.";
   static const char BUZZER[]   = "Buzzer";
-  static const char MP3F[]     = "MP3 Folder %d";  //max 12 chars
-  static const char SN_ADV[]     = "Snooze Adver"; 
+  static const char SN_ADV[]   = "Snooze Adver"; 
 
   
 };
